@@ -20,6 +20,9 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 **Circuit diagram**
 
+<img width="1036" height="556" alt="image" src="https://github.com/user-attachments/assets/fbb32f59-49e9-4e2c-8cf0-5900fc53891c" />
+<img width="1113" height="812" alt="image" src="https://github.com/user-attachments/assets/9f8bc848-74a1-42c9-9f27-576fa9532bc9" />
+
 
  
 **PROCEDURE:**
@@ -45,5 +48,7 @@ a)	The voltage V1 is	V.
 b)	The voltage V2 is	V.
 
 c)	The voltage V3 is	V.
+<img width="1350" height="625" alt="image" src="https://github.com/user-attachments/assets/83382561-e110-4d9e-9172-80589abd0df7" />
+
 
 
